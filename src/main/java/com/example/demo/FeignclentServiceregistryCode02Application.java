@@ -10,7 +10,6 @@ public class FeignclentServiceregistryCode02Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FeignclentServiceregistryCode02Application.class, args);
-		System.out.println("HELLO CHANDU THIS IS SERVICE REGISTARY CODE");
 	}
 
 }
